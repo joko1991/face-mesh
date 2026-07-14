@@ -1,0 +1,22 @@
+# Środowisko
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Pliki wideo (nie trzymamy nagrań w repo)
+*.mp4
+*.mov
+*.avi
+!examples/*.mp4
+
+# Wyniki działania skryptu
+output/*
+!output/.gitkeep
+
+# System
+.DS_Store
