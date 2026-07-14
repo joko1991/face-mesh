@@ -1,4 +1,4 @@
-# face-mesh-demo
+# face-mesh
 
 Wizualizacja geometrii twarzy (468 punktów, MediaPipe Face Mesh) — narzędzie edukacyjne pokazujące, **jak działa technologia stojąca za deepfake'ami** i gdzie szukać śladów manipulacji.
 
